@@ -11,6 +11,7 @@ Executables will vary depending on the OS of the device they were copied from, h
 * [1.72.9](https://github.com/rwqfsfasxc100/DV-Version-Backups/releases/tag/Bleeding-Edge-1.72.9)
 * [1.72.7](https://github.com/rwqfsfasxc100/DV-Version-Backups/releases/tag/Bleeding-Edge-1.72.7)
 * [1.72.5](https://github.com/rwqfsfasxc100/DV-Version-Backups/releases/tag/Bleeding-Edge-1.72.5)
+* [1.72.3](https://github.com/rwqfsfasxc100/DV-Version-Backups/releases/tag/Bleeding-Edge-1.72.3)
 * [MISSING VERSIONS]
 * [1.64.14](https://github.com/rwqfsfasxc100/DV-Version-Backups/releases/tag/Bleeding-Edge-1.64.14)
 * [MISSING VERSIONS]
