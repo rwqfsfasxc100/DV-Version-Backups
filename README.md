@@ -6,6 +6,7 @@ Executables will vary depending on the OS of the device they were taken from, ho
 ## Latest Release Versions ([Older Versions](https://github.com/rwqfsfasxc100/DV-Version-Backups/blob/main/Stable%20Releases))
 * [1.72.6](https://github.com/rwqfsfasxc100/DV-Version-Backups/releases/tag/untagged-c6f0d25770d421584899) (2025-3-9)
 * [1.72.4](https://github.com/rwqfsfasxc100/DV-Version-Backups/releases/tag/untagged-6aa3eb6e00ccd74bf77a) (2025-3-6)
+* [1.64.11](https://github.com/rwqfsfasxc100/DV-Version-Backups/releases/tag/Release-1.64.11) (2025-2-28)
 
 ## Latest Bleeding-Edge Versions ([Older Versions](https://github.com/rwqfsfasxc100/DV-Version-Backups/blob/main/Bleeding%20Edge%20Releases))
 * [1.72.10](https://github.com/rwqfsfasxc100/DV-Version-Backups/releases/tag/Bleeding-Edge-1.72.10) (2025-3-14)
