@@ -11,8 +11,8 @@ Executables will vary depending on the OS of the device they were taken from, ho
 * [1.64.10](https://github.com/rwqfsfasxc100/DV-Version-Backups/releases/tag/Release-1.64.10) (2025-1-23)
 
 ## Latest Bleeding-Edge Versions ([Older Versions](https://github.com/rwqfsfasxc100/DV-Version-Backups/blob/main/Bleeding%20Edge%20Releases.md))
+* [1.73.2](https://github.com/rwqfsfasxc100/DV-Version-Backups/releases/tag/Bleeding-Edge-1.73.2) (2025-3-30)
 * [1.73.1](https://github.com/rwqfsfasxc100/DV-Version-Backups/releases/tag/Bleeding-Edge-1.73.1) (2025-3-28)
 * [1.73.0](https://github.com/rwqfsfasxc100/DV-Version-Backups/releases/tag/Bleeding-Edge-1.73.0) (2025-3-28)
 * [1.72.12](https://github.com/rwqfsfasxc100/DV-Version-Backups/releases/tag/Bleeding-Edge-1.72.12) (2025-3-16)
 * [1.72.11](https://github.com/rwqfsfasxc100/DV-Version-Backups/releases/tag/Bleeding-Edge-1.72.11) (2025-3-15)
-* [1.72.10](https://github.com/rwqfsfasxc100/DV-Version-Backups/releases/tag/Bleeding-Edge-1.72.10) (2025-3-14)
