@@ -1,3 +1,5 @@
+* [1.77.2](https://github.com/rwqfsfasxc100/DV-Version-Backups/releases/tag/Release-1.77.2) (2025-7-27)
+* [1.76.5](https://github.com/rwqfsfasxc100/DV-Version-Backups/releases/tag/Release-1.76.5) (2025-7-19)
 * [1.76.1](https://github.com/rwqfsfasxc100/DV-Version-Backups/releases/tag/Release-1.76.1) (2025-7-16)
 * [1.74.19](https://github.com/rwqfsfasxc100/DV-Version-Backups/releases/tag/Release-1.74.19) (2025-5-15)
 * [1.73.5](https://github.com/rwqfsfasxc100/DV-Version-Backups/releases/tag/Release-1.73.5) (2025-4-3)
