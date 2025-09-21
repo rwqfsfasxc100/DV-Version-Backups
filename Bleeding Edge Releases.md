@@ -1,3 +1,4 @@
+* [1.79.0](https://github.com/rwqfsfasxc100/DV-Version-Backups/releases/tag/Bleeding-Edge-1.79.0) (2025-9-5)
 * [1.78.10](https://github.com/rwqfsfasxc100/DV-Version-Backups/releases/tag/Bleeding-Edge-1.78.10) (2025-9-2)
 * [1.78.9](https://github.com/rwqfsfasxc100/DV-Version-Backups/releases/tag/Bleeding-Edge-1.78.9) (2025-8-31)
 * [1.78.8](https://github.com/rwqfsfasxc100/DV-Version-Backups/releases/tag/Bleeding-Edge-1.78.8) (2025-8-30)
