@@ -13,4 +13,6 @@
 * [MISSING VERSIONS]
 * [0.422.3](https://github.com/rwqfsfasxc100/DV-Version-Backups/releases/tag/Release-0.422.3) (2021-11-15)
 * [MISSING VERSIONS]
+* [0.326.6](https://github.com/rwqfsfasxc100/DV-Version-Backups/releases/tag/Release-0.326.6) (2021-3-25)
+* [MISSING VERSIONS]
 * [0.98.1](https://github.com/rwqfsfasxc100/DV-Version-Backups/releases/tag/Release-0.98.1) (2019-8-11)
